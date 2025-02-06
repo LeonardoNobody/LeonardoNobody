@@ -18,7 +18,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação e games me segue a gente nas redes abaixo!
+### Algumas redes sociais e para quem gosta de games, pode me seguir no youtube!
  
 <div> 
   <a href="https://www.youtube.com/@r41on" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
