@@ -19,10 +19,19 @@
 <br>
  
 ### Algumas redes sociais e para quem gosta de games, pode me seguir no youtube!
-### Social Midia & Youtube gaming stuff, let your follow on my channel!
+### Some social media and for those who like games, you can follow me on YouTube!
  
 <div> 
   <a href="https://www.youtube.com/@r41on" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leor.s.sup/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-souza-35a07920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+## 👨‍💻 Sobre mim
+- 🎓 Estudante universitário e entusiasta de programação.
+- 💼 Trabalho em um laboratório ótico, mas também desenvolvo projetos de software.
+- 🎮 Apaixonado por tecnologia, games e aprendizado contínuo.
+  
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
+
