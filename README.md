@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil  😁
-## Welcome to my perfil 😁
+## Welcome to my profile 😁
  <div>
    <a href="https://github.com/LeonardoNobody">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoNobody&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,6 +19,7 @@
 <br>
  
 ### Algumas redes sociais e para quem gosta de games, pode me seguir no youtube!
+### Social Midia & Youtube gaming stuff, let your follow on my channel!
  
 <div> 
   <a href="https://www.youtube.com/@r41on" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
