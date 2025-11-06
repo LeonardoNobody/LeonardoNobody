@@ -21,7 +21,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/npm/@typescript-eslint/typescript-estree@8.46.3/dist/convert-comments.min.js" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/@typescript-eslint/typescript-estree@8.46.3/dist/convert-comments.min.js" />
 </div>
 
 
