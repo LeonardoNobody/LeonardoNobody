@@ -10,8 +10,6 @@
 
 ---
 
-### 🛠️ Tecnologias que utilizo:
-
 ### 🛠️ Tecnologias que utilizo
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"><br>
